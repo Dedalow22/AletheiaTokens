@@ -1,1 +1,1 @@
-# AletheiaTokens
+# aletheia-tokens
